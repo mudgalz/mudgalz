@@ -11,17 +11,13 @@
 
 - 🌱 I’m currently learning **TypeScript and CMS**
 
-- 👨‍💻 My few projects are available at [https://mudgal.netlify.app](https://mudgal.netlify.app)
-
-- 📝 I regularly write articles on coding and snippets which may help others [https://mudgal.vercel.app](https://mudgal.vercel.app)
+- 👨‍💻 My few projects are available at [https://mudgal.framer.ai](https://mudgal.framer.ai)
 
 - 💬 Ask me about **React, Nextjs, Javascript and Nodejs.**
 
 - 📫 How to reach me **akashmudgal66403@gmail.com**
 
-- 📄 Know about my experiences [https://mudgal.vercel.app/about](https://mudgal.vercel.app/about)
-
-- ⚡ Fun fact **I think I am boring but interesting underneath.**
+- ⚡ Fun fact **I am boring.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
